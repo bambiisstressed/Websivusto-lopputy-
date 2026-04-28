@@ -1,11 +1,13 @@
 p {color: blue;}
 
-header {background-color: aqua;
-height: 100px;}
+header {background-color: aqua;}
 
 main {background-color: aliceblue;
-height: 200px;}
+height: 300px;}
 
 footer {background-color: lightblue;
 height: 100px;
 margin: none;}
+
+.navbar {background-color: lightblue;
+color: navy}
