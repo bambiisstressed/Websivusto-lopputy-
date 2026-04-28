@@ -13,11 +13,23 @@ margin: none;}
 color: navy;}
 
 <!--Here we made a footer that is fixed to the bottom of the page.-->
+
 .footer {
     position:fixed;
-    bottom:0px;
-    height:30px;
-    width:100%;
-    background-color:#171717;
+    bottom: 0px;
+    height: 30px;
+    width: 100px;
+    background: color #171717;;
     color:white;
 }
+
+.gallery-container 
+{display: flex;
+flex-direction: row;}
+
+.gallery-item 
+{margin: 5px;
+width: 100%;
+height: 200px; }
+
+
