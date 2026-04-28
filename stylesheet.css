@@ -1,1 +1,11 @@
 p {color: blue;}
+
+header {background-color: aqua;
+height: 100px;}
+
+main {background-color: aliceblue;
+height: 200px;}
+
+footer {background-color: lightblue;
+height: 100px;
+margin: none;}
